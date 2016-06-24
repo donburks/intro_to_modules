@@ -1,0 +1,21 @@
+{
+  "name": "evil_villain",
+  "version": "1.0.0",
+  "description": "I am an evil villain. Just ask me. I'll tell you.",
+  "main": "kaboom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bomb",
+    "evil",
+    "villain",
+    "comedy"
+  ],
+  "author": "Don Burks <don@lighthouselabs.ca>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.9.1",
+    "timedown": "^1.0.19"
+  }
+}
